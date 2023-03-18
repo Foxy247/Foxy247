@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FloofyFoxy
+- 👋 Hi, I’m @Emanuel Koelbl
 - 👀 I’m interested in Front End Web Dev
-- 🌱 I’m currently learning CSS
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
